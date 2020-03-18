@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyActivitiesLab</string>
+    <string name="button_main">send</string>
+    <string name="activity2_name">SecondActivity</string>
+    <string name="text_header">message received</string>
+    <string name="editText_main">Enter your message here</string>
+    <string name="button_second">button_second</string>
+    <string name="editText_second">editText_second</string>
+    <string name="text_header_reply">reply_recieved</string>
+</resources>
